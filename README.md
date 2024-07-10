@@ -1,4 +1,4 @@
-# **Training and deploying machine learning model using Azure Machine Learning**  
+# **Training and deploying a machine learning model using Azure Machine Learning**  
 
 In this repository we use the [Iris](https://www.kaggle.com/datasets/uciml/iris) dataset, [AutoMl](https://azure.microsoft.com/en-us/solutions/automated-machine-learning) and [Azure Machine Learning Studio](https://azure.microsoft.com/en-au/products/machine-learning) to train and deploy live machine learning model on an interactive web application.
 
