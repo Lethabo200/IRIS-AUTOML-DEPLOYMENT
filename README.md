@@ -12,7 +12,6 @@ In this repository, we use the [Iris](https://www.kaggle.com/datasets/uciml/iris
 7. [Model Deployment](#model-deployment)
 8. [Testing the Deployed Model](#testing-the-deployed-model)
 9. [Contributing](#contributing)
-10. [License](#license)
 
 ## Packages
 
