@@ -69,6 +69,7 @@ In this repository, we use the [Iris](https://www.kaggle.com/datasets/uciml/iris
    - `data_preparation.ipynb`: Prepare and explore the Iris dataset.
    - `model_training.ipynb`: Train the model using AutoML.
    - `model_deployment.ipynb`: Deploy the trained model.
+3. Read the documentation of the whole process in `Documentation or Report.pdf`
 
 ## Model Training
 
