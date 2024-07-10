@@ -48,8 +48,8 @@ In this repository, we use the [Iris](https://www.kaggle.com/datasets/uciml/iris
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/azure-ml-iris-classification.git
-   cd azure-ml-iris-classification
+   git clone https://github.com/Lethabo200/IRIS-AUTOML-DEPLOYMENT.git
+   cd yourfolder
    ```
 
 2. Set up your Azure resources:
