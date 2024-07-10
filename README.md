@@ -34,9 +34,9 @@ In this repository, we use the [Iris](https://www.kaggle.com/datasets/uciml/iris
 
 ```
 ├── notebooks/
-│   ├── 01_data_preparation.ipynb
-│   ├── 02_model_training.ipynb
-│   └── 03_model_deployment.ipynb
+│   ├── data_preparation.ipynb
+│   ├── model_training.ipynb
+│   └── model_deployment.ipynb
 ├── scripts/
 │   └── test_model.R
 ├── requirements.txt
@@ -66,17 +66,17 @@ In this repository, we use the [Iris](https://www.kaggle.com/datasets/uciml/iris
 
 1. Open the Jupyter notebooks in the `notebooks/` directory using your Azure ML compute instance.
 2. Follow the notebooks in order:
-   - `01_data_preparation.ipynb`: Prepare and explore the Iris dataset.
-   - `02_model_training.ipynb`: Train the model using AutoML.
-   - `03_model_deployment.ipynb`: Deploy the trained model.
+   - `data_preparation.ipynb`: Prepare and explore the Iris dataset.
+   - `model_training.ipynb`: Train the model using AutoML.
+   - `model_deployment.ipynb`: Deploy the trained model.
 
 ## Model Training
 
-We use Azure AutoML to train our model. AutoML automatically tries various algorithms and hyperparameters to find the best model for our data. The process is detailed in the `02_model_training.ipynb` notebook.
+We use Azure AutoML to train our model. AutoML automatically tries various algorithms and hyperparameters to find the best model for our data. The process is detailed in the `model_training.ipynb` notebook.
 
 ## Model Deployment
 
-After training, we deploy the best model as a web service using Azure Container Instances. This process is covered in the `03_model_deployment.ipynb` notebook.
+After training, we deploy the best model as a web service using Azure Container Instances. This process is covered in the `model_deployment.ipynb` notebook.
 
 ## Testing the Deployed Model
 
@@ -86,9 +86,6 @@ You can test the deployed model using the R script provided in `scripts/test_mod
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
   
 
