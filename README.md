@@ -3,15 +3,13 @@
 In this repository we use the [Iris](https://www.kaggle.com/datasets/uciml/iris) dataset, [AutoMl](https://azure.microsoft.com/en-us/solutions/automated-machine-learning) and [Azure Machine Learning Studio](https://azure.microsoft.com/en-au/products/machine-learning) to train and deploy live machine learning model on an interactive web application.
 
 
-### **Deployed model** [Iris model deployment](https://iris-model-deployment.streamlit.app/)
-
 
 ### **Packages**
-- [numpy](scikit-learn), [pandas](https://pandas.pydata.org/)
+-  [pandas](https://pandas.pydata.org/)
 - [joblib](https://pypi.org/project/joblib/), [pickle5](https://pypi.org/project/pickle5/)
-- [streamlit](https://streamlit.io/)
+- [azureml](https://pypi.org/project/azureml/)
 - [scikit-learn](https://scikit-learn.org/stable/)
-- [matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/) , [plotly](https://plotly.com/python/)
+- [matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/) 
 
 
 
@@ -20,7 +18,4 @@ In this repository we use the [Iris](https://www.kaggle.com/datasets/uciml/iris)
 
 
 
-### **Interactive tutorial**
-
-https://github.com/Kmohamedalie/iris-streamlit/assets/63104472/50661fe2-bc6b-4441-b590-dda8e0e0a6b5
 
